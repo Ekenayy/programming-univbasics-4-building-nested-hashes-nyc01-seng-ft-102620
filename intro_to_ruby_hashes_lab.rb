@@ -3,6 +3,8 @@ def base_hash
   # keyword "return." Nice and neat.
 big_hash = {:railroads => {} 
 }
+
+big_hash
 end
 
 def monopoly_with_second_tier
