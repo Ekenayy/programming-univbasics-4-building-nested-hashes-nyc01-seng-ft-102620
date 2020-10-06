@@ -13,7 +13,7 @@ def monopoly_with_second_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
   big_hash = {:railroads => 
-  {:pieces => 4, :rent_in_dollars => {}, {:names} => {}} 
+  {:pieces => 4, :rent_in_dollars => {}, :names => {}} 
   }
 
 big_hash
